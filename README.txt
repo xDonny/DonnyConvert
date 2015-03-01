@@ -1,3 +1,7 @@
+Purpose:
+
+Browsing online for some quick converter tools found a lot of shareware that came with adware and spyware, so I decided to create this software to help my fellow media consumers out.
+
 This program requires python, you can find that here:
 https://www.python.org/downloads/
 
